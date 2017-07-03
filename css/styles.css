@@ -103,6 +103,21 @@ footer
 	background-color: white;
 }
 
+.css_menu_button{
+	background-color: #483474;
+	color: white;
+}
+
+.css_menu_button:hover{
+	background-color: white;
+	color: #16675e;
+}
+
+.css_menu_button:focus{
+	background-color: #483474;
+	color: white;
+}
+
 .css_main_container{
 	background-color: #483474;
 
@@ -125,7 +140,7 @@ footer
 
 @media screen and (min-width:316px) and (max-width: 775px) {
 	#main_content{
-		margin-top: 110px;
+		margin-top: 150px;
 	}
 
 	.jumbotron h3:nth-of-type(odd){
@@ -136,7 +151,7 @@ footer
 
 @media screen and (max-width: 315px) {
 	#main_content{
-		margin-top: 150px;
+		margin-top: 180px;
 	}
 	.jumbotron h3:nth-of-type(odd){
 		text-align: left;
