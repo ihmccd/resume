@@ -24,6 +24,10 @@ footer
 	color: #edeeef;
 }
 
+.css_ancor_correct{
+	height: 50px;
+}
+
 .css_dropdown_menu_navbar li a:hover{
 		background-color: #16675e;
 		color: #edeeef;
